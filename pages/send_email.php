@@ -6,13 +6,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $phone = $_POST['phone'];
     $message = $_POST['message'];
 
-    // Set the recipient email address
-    $to = "recipient@example.com"; // Replace with the actual email address
+    
+    $to = "info@topper-arnhem.com"; // Replace with the actual email address
 
-    // Set the email subject
+   
     $subject = "New Contact Form Submission";
 
-    // Build the email message
     $email_message = "Name: $name\n";
     $email_message .= "Email: $email\n";
     $email_message .= "Phone: $phone\n";
@@ -28,8 +27,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Failed to send email. Please try again.";
     }
 } else {
-    // Redirect or handle the case when the form is not submitted
-    // For example, redirect to the form page
     header("Location: ../?page=contact");
     exit();
 }
