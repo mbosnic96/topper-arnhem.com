@@ -63,8 +63,10 @@ Photo by Patrick Bohn: https://www.pexels.com/photo/interior-of-a-modern-luxury-
     background-color: rgba(0, 0, 0, 0.5); /* Adjust the last value (0.5) for the overlay opacity */
 }
 
-.bg-contact{
-  background-image: url(../images/contact-page.jpg);
+.bg-tiles{
+  background-image: url(../images/tile-repeat.png);
+  background-repeat: repeat;
+  background-size: contain;
 }
 
 .container{
@@ -76,7 +78,7 @@ Photo by Patrick Bohn: https://www.pexels.com/photo/interior-of-a-modern-luxury-
 a{
   text-decoration: none !important;
 }
-.nav-link:hover, .nav-item .btn:hover{
+.nav-link:hover, .nav-item .dropdown-toggle:hover{
   color: red !important;
 }
 
@@ -113,4 +115,127 @@ footer{
 
 footer ul{
   list-style-type: none;
+}
+
+.rating {
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.rating:hover {
+  box-shadow: 11px 11px 23px -7px rgba(0,0,0,0.4);
+}
+.dropdown:focus,.btn:focus{
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+/*
+Photo by Max Rahubovskiy: https://www.pexels.com/photo/interior-of-bathroom-in-daylight-7031883/
+*/
+
+.bg-tiles2{
+  background-image: url(../images/pexels-max-rahubovskiy-7031883.jpg);
+}
+
+/*
+Image by <a href="https://www.freepik.com/free-photo/tiler-working-renovation-apartment_22699387.htm#query=tile%20cutter&position=7&from_view=keyword&track=ais&uuid=6e709f24-1c61-45b7-80b8-b463fe0be355">Freepik</a>
+*/
+.bg-vloertegels-zetten{
+    background-image: url(../images/tiler-working-renovation-apartment.jpg);
+}
+/*Image by <a href="https://www.freepik.com/free-photo/tiler-working-renovation-apartment_22698677.htm#query=wall%20tiles%20install&position=5&from_view=search&track=ais&uuid=468fc83c-106f-4f63-8778-af0a3019f8fe">Freepik</a>*/
+.bg-wandtegels-zetten{
+  background-image: url(../images/tiler-working-renovation-apartment2.jpg);
+}
+
+.bg-oude-tegels-verwijderen{
+  background-image: url(../images/worker-remove-demolish-old-tiles-in-a-bathroom-free-photo.jpg);
+}
+
+/*
+Image by <a href="https://www.freepik.com/free-photo/wall-grey-stone-blocks_3253165.htm#page=4&query=Removing%20Old%20Tiles&position=9&from_view=search&track=ais&uuid=5ee81bff-51e8-4379-a499-fe049c66abc6">Freepik</a>
+*/
+
+.bg-voegen-vullen{
+  background-image: url(../images/wall-grey-stone-blocks.jpg);
+}
+
+
+/*
+<a href="https://www.freepik.com/free-photo/worker-working-with-circular-grinder_24904591.htm#query=tile%20cutting&position=18&from_view=search&track=ais&uuid=3666cf9d-a560-43ce-a8e0-9780596fa1ad">Image by ArthurHidden</a> on Freepik
+*/
+
+
+.bg-tegels-snijden{
+  background-image: url(../images/grinder.png);
+}
+
+.card{border:none}
+.dropdown-item.active, .dropdown-item:active{background-color: red;}
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .navbar{
+    width:80%;
+    top: 250px;
+  }
+  .nav-item .nav-link{
+    margin-right: 0px !important;
+  }
+  .nav-padding-section {
+    padding-top: 450px;
+  }
+  .hide{
+    display: none;
+  }
+  .hi-25 img, .h-300{height: 100%;}  
+}
+
+
+@media (min-width: 768px) and (max-width: 1190px) {
+  
+  .navbar{
+    width:80%;
+    top: 250px;
+  }
+  .nav-item .nav-link{
+    margin-right: 0px !important;
+  }
+  .nav-padding-section {
+    padding-top: 450px;
+  }
+  .hide{
+    display: none;
+  }
+  .hi-25 img, .h-300{height: 100%;} 
+  
+  .carousel,.carousel-inner,.carousel-item img{
+    width: 100% !important;
+    height: auto !important;
+  }
+  
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+  
+  .navbar{
+    width:90%;
+  }
+  .nav-item .nav-link{
+    margin-right: 0px !important;
+  }
+  .nav-padding-section {
+    padding-top: 450px;
+  }
+  .hide{
+    display: none;
+  }
+  .hi-25 img, .h-300{height: 100%;} 
+  
+  .carousel,.carousel-inner,.carousel-item img{
+    width: 100% !important;
+    height: auto !important;
+  }
+  
 }

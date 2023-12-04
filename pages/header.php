@@ -2,7 +2,7 @@
   <div class="container">
     <a class="navbar-brand" href="?page=homepage"><img src="images/logo.png" alt="logo" class="img-fluid display-inline-block align-top logo"/></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <i class="fa-solid fa-bars"></i>
+      <i class="fa-solid fa-bars text-danger"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav align-items-center mx-auto">

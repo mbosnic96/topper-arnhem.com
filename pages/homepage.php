@@ -8,7 +8,7 @@
                 <p class="text-light fw-bold">Hij heeft bij verschillende bedrijven gewerkt in Kroatië en Slovenië
                     (zowel zakelijk en particulier). Tegelwerk of stucwerk: dit is echt waar hij van houd en expert in
                     is.</p>
-                <a type="button" class="btn btn-danger rounded-pill mb-4 btn-lg" href="#"> Gratis: +xxxxxxxxx</a>
+                <a type="button" class="btn btn-danger mb-4 btn-lg" href="tel:+31633993038"> Gratis: +31633993038</a>
             </div>
             <div class="col-lg-5">
                 <h1 class="text-light">Gratis offerte</h1>
@@ -23,7 +23,7 @@
 <section>
     <div class="container">
         <div class="row mt-4">
-            <div class="col-sm-12 col-md-6 col-lg-6 mb-4">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="0">
                     <div class="card">
                         <img src="images/kitchenconcrete.jpg" alt="">
@@ -31,7 +31,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6 mb-4">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="1">
                     <div class="card">
                         <img src="images/atrium.jpg" class="d-block w-100" alt="...">
@@ -39,15 +39,15 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-12 mb-4 hi-25">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="2">
-                    <div class="card">
-                        <img src="images/livingroom.jpg" class="d-block w-100" alt="...">
+                    <div class="card h-100">
+                        <img src="images/livingroom.jpg" class="d-block w-100 h-100" alt="...">
                         <div class="image-title">Light, tight and white scandinavian design</div>
                     </div>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6 mb-4">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="3">
                     <div class="card">
                         <img src="images/bedroom.jpg" class="d-block w-100" alt="...">
@@ -55,7 +55,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6 mb-4">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="4">
                     <div class="card">
                         <img src="images/diningroom.jpg" class="d-block w-100" alt="...">
@@ -63,10 +63,10 @@
                     </div>
                 </a>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-12 mb-4 hi-25">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                 <a data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-slide-to="5">
-                    <div class="card">
-                        <img src="images/livingroom2.jpg" class="d-block w-100" alt="...">
+                    <div class="card h-100">
+                        <img src="images/livingroom2.jpg" class="d-block w-100 h-100" alt="...">
                         <div class="image-title">Scandinavian design</div>
                     </div>
                 </a>
@@ -140,46 +140,46 @@
     <div class="container p-5">
         <h1 class="text-light text-center">Onze diensten</h1>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 <div class="col-lg-12">
                     <img src="images/floor-tiles.jpg" alt="service" class="img-fluid h-300">
                 </div>
                 <div class="col-lg-12">
-                    <h2 class="text-light fw-bold mt-2">Vloertegels plaatsen Utrecht</h2>
+                    <h2 class="text-light fw-bold mt-2">Vloertegels plaatsen</h2>
                     <p class="text-light">Laat onze ervaren tegelzetters duurzame en aantrekkelijke tegelvloeren
                         installeren in uw huis of bedrijfspand, met behulp van de nieuwste technieken en hoogwaardige
                         materialen.</p>
-                    <a type="button" class="btn btn-danger rounded-pill mb-4 btn-lg" href="#">Zie Meer</a>
+                    <a type="button" class="btn btn-danger mb-4 btn-lg" href="?page=vloertegels-zetten">Zie Meer</a>
                 </div>
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 <div class="col-lg-12">
                     <img src="images/wandtegels-scaled.jpg" alt="service" class="img-fluid h-300">
                 </div>
                 <div class="col-lg-12">
-                    <h2 class="text-light fw-bold mt-2">Wandtegels plaatsen Utrecht</h2>
+                    <h2 class="text-light fw-bold mt-2">Wandtegels plaatsen</h2>
                     <p class="text-light">Creëer een mooie en functionele wandbekleding voor uw badkamer, keuken of
                         andere ruimte met behulp van onze tegelzetters. Wij zorgen voor een naadloze afwerking die
                         perfect past bij uw interieur.</p>
-                    <a type="button" class="btn btn-danger rounded-pill mb-4 btn-lg" href="#">Zie Meer</a>
+                    <a type="button" class="btn btn-danger mb-4 btn-lg" href="?page=wandtegels-zetten">Zie Meer</a>
                 </div>
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-md-6 col-lg-4">
                 <div class="col-lg-12">
                     <img src="images/vloertegels-plaatse.jpg" alt="service" class="img-fluid h-300">
                 </div>
                 <div class="col-lg-12">
-                    <h2 class="text-light fw-bold mt-2">Oude tegels verwijderen Utrecht</h2>
+                    <h2 class="text-light fw-bold mt-2">Oude tegels verwijderen</h2>
                     <p class="text-light">Wij verwijderen oude of beschadigde tegels zorgvuldig om ruimte te maken voor
                         nieuw tegelwerk. Wij zorgen ervoor dat alles netjes wordt achtergelaten en de ruimte klaar is
                         voor de volgende stap.</p>
-                    <a type="button" class="btn btn-danger rounded-pill mb-4 btn-lg" href="#">Zie Meer</a>
+                    <a type="button" class="btn btn-danger mb-4 btn-lg" href="?page=oude-tegels-verwijderen">Zie Meer</a>
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="col-md-6 col-lg-6">
                 <div class="col-lg-12">
                     <h2 class="text-light fw-bold mt-2">Extra diensten</h2>
                     <p class="text-light">Naast onze specialisatie in het zetten van wandtegels bieden wij ook een breed
@@ -191,11 +191,11 @@
                         <li class="text-light">Voorbereiden van ondergronden voor tegelwerk</li>
                         <li class="text-light">Aanbrengen van voegen tussen tegels</li>
                     </ul>
-                    <a type="button" class="btn btn-danger rounded-pill mt-4 btn-lg" href="#">Zie Meer</a>
+                    <a type="button" class="btn btn-danger mt-4 btn-lg" href="?page=diensten">Al Onze Diensten</a>
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="col-md-12 col-lg-6">
                 <div class="col-lg-12">
                     <img src="images/project.png" alt="service" class="img-fluid d-block mx-auto">
                 </div>
@@ -209,8 +209,8 @@
 
         <h1 class="text-center">Wat klanten van ons vinden </h1>
         <div class="row">
-            <div class="col-md-4 text-center p-3">
-                <div class="col-md-12 bg-light p-2 h-300">
+            <div class="col-md-6 col-lg-4 text-center p-3">
+                <div class="col-md-12 bg-light p-2 h-300 rating">
                     <?php include 'pages/rating.php' ?>
                     <i class="fa-solid fa-quote-right fa-xl d-block mt-4"></i>
                     <p class="fst-italic mt-5">“Erg tevreden met het werk van deze tegelzetters. Ze hebben onze badkamer
@@ -219,8 +219,8 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center p-3">
-                <div class="col-md-12 bg-light p-2 h-300">
+            <div class="col-md-6 col-lg-4 text-center p-3">
+                <div class="col-md-12 bg-light p-2 h-300 rating">
                     <?php include 'pages/rating.php' ?>
                     <i class="fa-solid fa-quote-right fa-xl d-block mt-4"></i>
                     <p class="fst-italic mt-5">“Professionele en vriendelijke service. Het team denkt graag met je mee
@@ -229,8 +229,8 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center p-3">
-                <div class="col-md-12 bg-light p-2 h-300">
+            <div class="col-md-12 col-lg-4 text-center p-3">
+                <div class="col-md-12 bg-light p-2 h-300 rating">
                     <?php include 'pages/rating.php' ?>
                     <i class="fa-solid fa-quote-right fa-xl d-block mt-4"></i>
                     <p class="fst-italic mt-5">“Ik kan deze tegelzetters zeker aanbevelen. Ze hebben onze keuken een
@@ -243,6 +243,20 @@
         </div>
     </div>
 
+</section>
+
+
+
+<section class="bg-tiles">
+    <div class="container p-5 text-center">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-danger fw-bold">Transparante offertes</h1>
+                <p>Ons bedrijf zorgt voor goede afspraken. Onze offertes hebben daarom een duidelijke opgave van werkzaamheden en prijzen (inclusief BTW). Daarnaast krijgt u voor we beginnen een helder werkschema met een tijdpad. Zo weet u altijd waar we zitten in het (ver)bouwproces.</p>
+                <p>Indien u na de digitale offerte/telefoon of email meer informatie wil hebben kunnen wij op afspraak langskomen. Een adviesgesprek bij u op locatie inclusief voorrijkosten is bij ons 50,- (provincie Gelderland). Een adviesgesprek is niet verplicht, echter vinden veel klanten dit prettig, omdat er dan gelegenheid is om uw digitale offerte uitgebreid door te nemen. Indien u besluit om ons bedrijf in te huren, wordt het bedrag van 50,- in mindering gebracht op het totaalbedrag. Voor meer informatie hierover mag u te allen tijde contact opnemen met ons.</p>
+            </div>
+        </div>
+    </div>
 </section>
 
 <section class="portfolio">

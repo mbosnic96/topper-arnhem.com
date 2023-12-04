@@ -18,17 +18,18 @@
     <link href="assets/fontawesome-free-6.4.2-web/css/solid.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="images/logo.png">
     
-  <meta name="keywords" content="Darwin solar, solar Darwin, Darwin solar installers, darwin solar panels, darwin solar reviews, Home solar, nt solar rebates, solar batteries darwin, solar in darwin, solar installation darwin"/>
-  <meta name="description" content="Experts in Darwin Solar Energy for your home and business. Darwin solar installations helping you save money. No Upfront cost solar Darwin NT."/>
+  <meta name="keywords" content="Topper Arnhem, voegen vullen, tegels, tegels snijden, vloertegels, vloertegels zetten, wandtegels, wandtegels zetten"/>
+  <meta name="description" content="Topper Arnhem."/>
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Eco Tech Electrical | Darwin Solar Installations | Solar Power"/>
-    <meta property="og:description" content="Experts in Darwin Solar Energy for your home and business. Darwin solar installations helping you save money. No Upfront cost solar Darwin NT."/>
-    <meta property="og:site_name" content="Eco Tech Electrical | Darwin Solar Installations | Solar Power"/>
-    <meta name="twitter:description" content="Experts in Darwin Solar Energy for your home and business. Darwin solar installations helping you save money. No Upfront cost solar Darwin NT."/>
-    <meta name="twitter:title" content="Eco Tech Electrical | Darwin Solar Installations | Solar Power"/>
-    <meta property="og:image" content="images/port.jpg"/>
-    <title>Eco Tech Electrical | Darwin Solar Installations | Solar Power</title>
+    <meta property="og:title" content="Topper Arnhem"/>
+    <meta property="og:description" content="Topper Arnhem"/>
+    <meta property="og:site_name" content="Topper Arnhem"/>
+    <meta name="twitter:description" content="Topper Arnhem"/>
+    <meta name="facebook:description" content="Topper Arnhem"/>
+    <meta name="twitter:title" content="Topper Arnhem"/>
+    <meta property="og:image" content="images/og.jpg"/>
+    <title>Topper Arnhem</title>
 </head>
 
 <body>
