@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Send the email
     if (mail($to, $subject, $email_message, $headers)) {
-        echo "Email sent successfully!";
+        header("Location: ../?page=email_success");
     } else {
         echo "Failed to send email. Please try again.";
     }
